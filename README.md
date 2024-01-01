@@ -1,3 +1,7 @@
+[![Build Status](https://dev.azure.com/Manonmaniragu/csa/_apis/build/status%2Fcsa-CI?repoName=gitupsivaragu%2FHIS&branchName=main)](https://dev.azure.com/Manonmaniragu/csa/_build/latest?definitionId=15&repoName=gitupsivaragu%2FHIS&branchName=main)
+
+# CI Demo
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
